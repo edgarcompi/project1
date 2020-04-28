@@ -1,0 +1,230 @@
+
+/* #24252a shark, #013243 sherpa blue, #22313f ebony clay, #f3f1ef white, 
+#6c7a89 lynch (gray-blue)  */
+body{
+    color: #f3f1ef !important;
+    font-family: "Georgia", serif;
+    background-color: #22313f !important;
+}
+.jumbotron{
+    margin-bottom: 0px;
+}
+
+/* Navbar Style */
+.btn-primary {
+    background-color: #22313f !important;
+    border-color: #22313f !important;
+    
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: #f3f1ef !important;
+}
+
+/* Inicio - Start Site */
+
+.jumbo1 {
+    height: 50em;
+    padding: 3em;
+    text-align: center;
+    background-color: #6c7a89;
+    background-image: url("sea2.jpg");
+    background-size: cover;
+}
+p.lead {
+    font-size: 24px;
+    padding: 0.5em;
+}
+.verticalpad8{
+    height: 8em;
+}
+.verticalpad4{
+    height: 4em;
+}
+.verticalpad2{
+    height: 2em;
+}
+.jumbo1 .btn{
+    background-color: #24252a;
+    /* Hay que quitar el border-color cuando se clica */
+    border-color: #24252a;
+}
+
+/* Nosotros */
+
+.cont1{
+    text-align: center;
+    font-size: 18px;
+    background-color: #013243;
+}
+
+.cont1 .my-3{
+    border-color: #f3f1ef ;
+}
+
+/* Que Buscamos*/
+
+.jumbo2 {
+    height: 50em;
+    padding: 3em;
+    text-align: center;
+    background-image: url("fishermen.jpg");
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.jumbo2 .container{
+    padding-left: 5px;
+    padding-right: 5px
+}
+
+.jumbo2 ul{
+    text-align: left;
+    font-size: 18px;
+}
+
+.jumbo2 .my-3{
+    border-color: #f3f1ef ;
+}
+
+.jumbo2 .col-md{
+    padding: 10px;
+    color: #24252a;
+    background-color: #f3f1ef;
+    opacity: 0.6;
+}
+.coldivider{
+    padding:10px;
+    background: none;
+}
+
+/* Que Ofrecemos */
+
+.cont2{
+    background-color: #364d63!important;
+    background-size: 100%;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+
+.cont2 th{
+    width: 150px !important;
+    height: 80px;
+    vertical-align: middle !important;
+}
+.cont2 td{
+   
+    vertical-align: middle !important;
+}
+
+.colccbottom{
+    border-bottom: 1px solid #f3f1ef !important;
+}
+
+th:nth-child(2){
+    background-color:#013243;
+    border-left: 1px solid #f3f1ef !important;
+    border-right: 1px solid #f3f1ef !important;
+    border-top: 1px solid #f3f1ef !important;
+}
+
+td:nth-child(2){
+    background-color:#013243;
+    border-left: 1px solid #f3f1ef !important;
+    border-right: 1px solid #f3f1ef !important;
+}
+
+.colcc{
+    background-color:#193846cc !important;
+}
+.blankcol{
+    background-color: #364d63 !important;
+    border-top: none !important;
+}
+
+/* Contacto */
+
+.cont3{
+    background-color: #013243;
+}
+
+.cont3 p{
+    font-size: 18px;
+}
+
+.btn2 {
+    background-color: #24252a   !important
+}
+
+.contacto{
+    padding-right: 30px !important;
+}
+/* Footer */
+
+.footer{
+    background-color: #22313f !important;
+    text-align: left;
+    padding: 0px;
+    padding-top: 20px;
+    margin: 0px;
+}
+
+.footer .col-md-4{
+    text-align: right;
+}
+.footer a{
+    color: #f3f1ef !important;
+}
+
+/* Investors - Start */
+
+.jumbo3 {
+    height: 50em;
+    padding: 3em;
+    text-align: center;
+    background-color: #6c7a89;
+    background-image: url("sea3.jpg");
+    background-size: cover;
+    margin-bottom: 0px;
+}
+p.lead {
+    font-size: 24px;
+    padding: 0.5em;
+}
+
+
+/* Why Invest */
+
+.cont4{
+    text-align: center;
+    font-size: 18px;
+    background-color: #013243 !important;
+}
+.cont4 .col-6{
+    color: black;
+    font-size: 20px;
+    background-color: #f3f1ef;
+    opacity: 80%;
+    border-radius: 10px;
+    border: 3px solid #f2f1ef !important;
+    padding: 5px;
+    margin: 10px;
+}
+.cont4 a{
+    color: #f3f1ef;
+    font-weight: bold;
+}
+
+.cont5 {
+    font-family: 'Playfair Display', serif;
+    height: 80em;
+    padding: 3em;
+    text-align: center;
+    background-image: url("lights.jpg");
+    background-size: cover;
+    margin-bottom: 0px;
+    background-repeat: no-repeat;
+  
+}
